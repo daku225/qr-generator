@@ -1,0 +1,6 @@
+{
+  "name": "パラメータ&QRジェネレータ",
+  "description": "Generate URLs with UTM parameters and convert them into QR codes. Download QR codes as PDF or image files (PNG/SVG/pdf)",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
