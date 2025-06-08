@@ -177,7 +177,8 @@ const App: React.FC = () => {
         </div>
         
         <footer className="text-center text-slate-500 mt-12 py-6 border-t border-gray-200">
-          <p>&copy; 2025 KUON</p>
+          <p className="text-xs mb-2">QRコードは(株)デンソーウェーブの登録商標です。</p>
+          <p className="text-sm">&copy; 2025 KUON</p>
         </footer>
       </div>
     </div>
